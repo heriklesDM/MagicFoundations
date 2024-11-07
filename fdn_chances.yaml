@@ -1,0 +1,38 @@
+Total:
+Commons: 80
+Uncommons: 100
+Rare: 60
+Mythics: 20
+Borderless Common: 2
+Borderless Uncommon: 8
+Borderless Rare: 43
+Borderless Mythic: 17
+Special Guest: 10
+Character Land: 10
+Dual Land: 10
+Regular Frame Land: 10
+
+14 Cards:
+    6 Commons
+    1 Card with chance:
+        98.5% Common
+        1.5% Special Guest
+    3 Uncommons
+    1 Card with chances:
+        78% 1 Rare
+        12.8% 1 Mythic Rare
+        7.7% Borderless Rare
+        1.5% Borderless Mythic
+    2 Card with chances
+        16.7% Common
+        58.3% Uncommon
+        16.3% Rare
+        2.6% Mythic
+        1.6%  Borderless Rare 
+        0.3% Borderless Mythic Rares
+        1.8% Borderless Commons 
+        2.4% Borderless Uncommons
+    1 Card with chances
+        25% Character Land
+        50% Dual Land
+        25% Regular Frame Land 
